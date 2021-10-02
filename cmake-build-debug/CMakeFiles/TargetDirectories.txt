@@ -1,0 +1,4 @@
+/Users/josevargas/dev/opengl-dev/imgui-rendering/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/josevargas/dev/opengl-dev/imgui-rendering/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/josevargas/dev/opengl-dev/imgui-rendering/cmake-build-debug/CMakeFiles/OpenGL_redo.dir
+/Users/josevargas/dev/opengl-dev/imgui-rendering/cmake-build-debug/CMakeFiles/glew.dir

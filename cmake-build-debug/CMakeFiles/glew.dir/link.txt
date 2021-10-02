@@ -1,0 +1,2 @@
+/Library/Developer/CommandLineTools/usr/bin/ar qc libglew.a  CMakeFiles/glew.dir/Dependencies/GLEW/src/glew.c.o CMakeFiles/glew.dir/Dependencies/GLEW/src/glewinfo.c.o CMakeFiles/glew.dir/Dependencies/GLEW/src/visualinfo.c.o
+/Library/Developer/CommandLineTools/usr/bin/ranlib libglew.a
